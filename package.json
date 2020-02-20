@@ -1,9 +1,11 @@
 {
   "name": "01-todolist",
   "version": "0.1.0",
+  "homepage": "https://fitkovich1.github.io/todolist13_study",
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.3",
@@ -15,6 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
