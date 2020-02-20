@@ -22,7 +22,7 @@ class App extends React.Component {
 
         return (
             <>
-                <div>
+                <div className='addNewItemForm'>
                     <AddNewItemForm addItem={this.addTodoList}/>
                 </div>
                 <div className="App">
