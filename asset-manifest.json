@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/todolist13_study/static/css/main.a4a1cece.chunk.css",
-    "main.js": "/todolist13_study/static/js/main.957f48c7.chunk.js",
-    "main.js.map": "/todolist13_study/static/js/main.957f48c7.chunk.js.map",
+    "main.js": "/todolist13_study/static/js/main.0bbb9cc8.chunk.js",
+    "main.js.map": "/todolist13_study/static/js/main.0bbb9cc8.chunk.js.map",
     "runtime~main.js": "/todolist13_study/static/js/runtime~main.34aabb43.js",
     "runtime~main.js.map": "/todolist13_study/static/js/runtime~main.34aabb43.js.map",
     "static/js/2.eeaa9662.chunk.js": "/todolist13_study/static/js/2.eeaa9662.chunk.js",
     "static/js/2.eeaa9662.chunk.js.map": "/todolist13_study/static/js/2.eeaa9662.chunk.js.map",
     "index.html": "/todolist13_study/index.html",
-    "precache-manifest.f2cca2c45046783c48fdf06215516ff2.js": "/todolist13_study/precache-manifest.f2cca2c45046783c48fdf06215516ff2.js",
+    "precache-manifest.5e517bc6de189f1f5fb313ca99c13a46.js": "/todolist13_study/precache-manifest.5e517bc6de189f1f5fb313ca99c13a46.js",
     "service-worker.js": "/todolist13_study/service-worker.js",
     "static/css/main.a4a1cece.chunk.css.map": "/todolist13_study/static/css/main.a4a1cece.chunk.css.map"
   }
